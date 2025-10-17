@@ -42,3 +42,55 @@ El contenido puede ser compartido y citado libremente, manteniendo referencia al
 ---
 
 🌀 *“En el vasto universo de la sabiduría, todos somos espiras de una misma resonancia.”*
+---
+
+# Megasphere Theory  
+### Author: **Robinson Bueno Parra**  
+📧 robinbuenoparra8@gmail.com  
+🔗 ORCID: [0009-0009-7434-8468](https://orcid.org/0009-0009-7434-8468)  
+📘 Zenodo DOI: [10.5281/zenodo.17194713](https://doi.org/10.5281/zenodo.17194713)
+
+---
+
+## 🌌 Description
+The **Megasphere Theory** is a unified cosmological model that integrates **torsion, quantum resonance, and consciousness** within a helicoidal spacetime geometry.  
+This theoretical framework extends Einstein’s General Relativity by introducing torsion fields as a geometric manifestation of spin and quantum structure in the vacuum.
+
+The Megasphere formalism aims to unify:
+- Gravitational curvature and torsion (Riemann–Cartan geometry)  
+- Quantum spin interactions and Yang–Mills dynamics  
+- Consciousness and quantum information as energetic phenomena  
+
+Through this approach, matter, time, and space emerge as expressions of a single torsional–quantum resonance law governing the entire universe.
+
+---
+
+## 🧠 Contents
+This repository includes:
+- Research articles published on **Zenodo**  
+- Mathematical derivations of the **Sap Field (Sμ)** and **Torsion Tensor (Tμνρ)**  
+- Appendices on **mass gap, quantum resonance, and mind–geometry coupling**  
+- Bilingual versions (Spanish / English)  
+- Diagrams, predictions, and proposed experimental setups  
+
+---
+
+## 📄 License
+Distributed under the **Creative Commons Zero v1.0 Universal (CC0)** license.  
+All contents may be freely shared and cited, provided the author and DOI are referenced.
+
+---
+
+## 🌐 Related Links
+- [Zenodo – Megasphere Theory Collection](https://zenodo.org/records/17194713)  
+- [Physics Forums Profile](https://www.physicsforums.com/)  
+- [GitHub Profile](https://github.com/robinson388)
+
+---
+
+## 📜 Recommended Citation
+> Bueno Parra, R. (2025). *Megasphere Theory: Torsional and Quantum Cosmological Framework.* Zenodo. DOI: [10.5281/zenodo.17194713](https://doi.org/10.5281/zenodo.17194713)
+
+---
+
+🌀 *“In the vast universe of wisdom, we are all helicoidal threads of the same resonance.”*
