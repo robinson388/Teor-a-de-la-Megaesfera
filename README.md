@@ -1,4 +1,4 @@
-![Helicoidal Spacetime](https://zenodo.org/record/17194713/files/imagen_megasfera.jpg)
+![Uploading file_000000002a4861f4af2510202d9c754a (2).png…]()
 
 # Teoría de la Megaesfera# Teoría de la Megaesfera  
 ### Autor: **Robinson Bueno Parra**  
