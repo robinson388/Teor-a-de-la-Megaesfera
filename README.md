@@ -1,4 +1,4 @@
-![Uploading file_000000002a4861f4af2510202d9c754a (2).png…]()
+<img width="1024" height="1536" alt="file_000000002a4861f4af2510202d9c754a (2)" src="https://github.com/user-attachments/assets/60fc4fb5-e996-4bd2-b94e-51a465b343f1" />
 
 # Teoría de la Megaesfera# Teoría de la Megaesfera  
 ### Autor: **Robinson Bueno Parra**  
